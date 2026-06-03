@@ -12,15 +12,6 @@ Oral leukoplakia is one of the most common oral potentially malignant disorders 
 To address these challenges, we introduce **OLDA-Bench (Oral Leukoplakia Diagnosis and Analysis Benchmark)**, the first benchmark specifically designed for oral leukoplakia progression recognition and interpretable lesion assessment
 
 
-
-## 📂 Data Access
-
-The dataset is publicly available on Google Drive:
-
-👉 [Google Drive Download Link](https://drive.google.com/file/d/1Re743zuCT57OavQ618pU4K3I4zgkgKiC/view?usp=sharing)
-
----
-
 ## 📦 Dataset Structure
 
 Images identified as Leukoplakia or Leukoplakia with Cancer in the first stage are passed to the segmentation network. This stage uses a dataset in the standard COCO format, structured as follows:
